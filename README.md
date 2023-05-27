@@ -1,6 +1,8 @@
 # 🏄‍♂️ Yalın Doğu Şahin
 **`(DevOps/SRE/Guitarist)`**
 
+Hello! I'm Yalın Doğu Şahin, a DevOps/SRE engineer who loves jazz music and kite surfing. On my GitHub profile, you'll find my work in software development, automation, and system optimization. Let's connect and collaborate on innovative projects!
+
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCvoh3ZrbjeIXu6-IbAGwf9w?sub_confirmation=1">
