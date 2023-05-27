@@ -1,8 +1,7 @@
 # 🏄‍♂️ Yalın Doğu Şahin
 **`(DevOps/Cloud/Guitarist)`**
 
-Hello! I'm Yalın Doğu Şahin, a DevOps/Cloud engineer who loves jazz music and kite surfing. On my GitHub profile, you'll find my work in software development, automation, and system optimization. Let's connect and collaborate on innovative projects!
-
+Hello! I'm Yalın Doğu Şahin, a DevOps/Cloud engineer who loves jazz music and kite surfing. On my GitHub profile, you'll find my work in software development, automation, and system optimization. I like developing automation scripts via Python and Ansible. You can find some repo's on my github that automates some staff. Let's connect and collaborate on innovative projects!
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCvoh3ZrbjeIXu6-IbAGwf9w?sub_confirmation=1">
@@ -16,7 +15,30 @@ Hello! I'm Yalın Doğu Şahin, a DevOps/Cloud engineer who loves jazz music and
    </p>
 
 ---
-I like developing automation scripts via Python and Ansible. You can find some repo's on my github that automates some staff.
+
+### Contents:
+  - [ZPE - Nodegrid Repositories](#categories)
+      - [GitHub Actions 🤖](#github-actions-)
+      - [Game Mode 🚀](#game-mode-)
+      - [Code Mode 👨🏽‍💻](#code-mode-)
+      - [Dynamic Realtime 💫](#dynamic-realtime-)
+      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
+      - [Descriptive 🗒](#descriptive-)
+      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+      - [Typing.. Mode 🎰](#typing-mode-)
+      - [Anime 👾](#anime-)
+      - [Minimalistic ✨](#minimalistic-)
+      - [GIFS 👻](#gifs-)
+      - [Just Images 🎭](#just-images-)
+      - [Badges 🎫](#badges-)
+      - [Fancy Fonts 🖋](#fancy-fonts-)
+      - [Icons 🎯](#icons-)
+      - [Retro 😎](#retro-)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Video Tutorials](#tutorials)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ---
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
