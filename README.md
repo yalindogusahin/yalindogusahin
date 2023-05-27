@@ -1,7 +1,6 @@
 # 🏄‍♂️ Yalın Doğu Şahin
 **`(DevOps/SRE/Guitarist)`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yalindogusahin&label=Profile%20views&color=0e75b6&style=flat" alt="yalindogusahin" /> </p>
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCvoh3ZrbjeIXu6-IbAGwf9w?sub_confirmation=1">
