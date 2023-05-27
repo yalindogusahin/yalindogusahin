@@ -18,7 +18,6 @@ Hello! I'm Yalın Doğu Şahin, a DevOps/SRE engineer who loves jazz music and k
 ---
 
 I like developing automation scripts via Python and Ansible. You can find some repo's on my github that automates some staff.
-
 ---
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
