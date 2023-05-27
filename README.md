@@ -26,11 +26,9 @@ Hello! I'm Yalın Doğu Şahin, a DevOps/Cloud engineer who loves jazz music and
       - [Nodegrid Google Authenticator Implementation 🗒](https://github.com/yalindogusahin/zpe_google_authenticator)
       - [Nodegrid 128T VM installation with Ansible 🤗](https://github.com/yalindogusahin/zpe_128t)
       - [Nodegrid Manage Connected Devices with Python 🎰](https://github.com/yalindogusahin/nodegrid)
-  - [Tools](#tools)
-  - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
-  - [Contribute](#contribute)
-  - [License](#license)
+  - [Windows WinRM script for Ansible](https://github.com/yalindogusahin/ansiblewinrm)
+  - [Python Prometheus Ping Client](https://github.com/yalindogusahin/python_prometheus_client)
+  - [MacOS TFTP server](https://github.com/yalindogusahin/mac_os_tftp_server)
 
 ---
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
