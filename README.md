@@ -17,11 +17,11 @@ Hello! I'm Yalın Doğu Şahin, a DevOps/Cloud engineer who loves jazz music and
 ---
 
 ### Contents:
-  - [ZPE - Nodegrid Repositories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
+  - [ZPE - Nodegrid OS Repositories](#categories)
+      - [Fortigate & Nodegrid S2S IP-Sec Tunnel🤖](https://github.com/yalindogusahin/zpe_forti_ipsec)
+      - [Nodegrid - MacOS Menu Bar Widget🚀](https://github.com/yalindogusahin/zpe_menubar_rumps)
+      - [Nodegrid Tailscale VPN 👨🏽‍💻](https://github.com/yalindogusahin/zpe_tailscale)
+      - [Nodegrid Wireguard VPN 💫](https://github.com/yalindogusahin/nodegrid_wireguard)
       - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
       - [Descriptive 🗒](#descriptive-)
       - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
