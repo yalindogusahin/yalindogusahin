@@ -29,7 +29,7 @@ Hello! I'm Yalın Doğu Şahin, a DevOps/Cloud engineer who loves jazz music and
   - [Windows WinRM script for Ansible](https://github.com/yalindogusahin/ansiblewinrm)
   - [Python Prometheus Ping Client](https://github.com/yalindogusahin/python_prometheus_client)
   - [MacOS TFTP server](https://github.com/yalindogusahin/mac_os_tftp_server)
----
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p><h3 align="left">Connect with me:</h3><p align="left">
 <a href="https://www.linkedin.com/in/yalindsahin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalindsahin/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@microcan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvoh3zrbjeixu6-ibagwf9w" height="30" width="40" /></a>
