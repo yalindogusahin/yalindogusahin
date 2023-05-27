@@ -20,7 +20,6 @@ Hello! I'm Yalın Doğu Şahin, a DevOps/SRE engineer who loves jazz music and k
 I like developing automation scripts via Python and Ansible. You can find some repo's on my github that automates some staff.
 
 ---
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,7 +28,6 @@ I like developing automation scripts via Python and Ansible. You can find some r
 <a href="https://www.youtube.com/@microcan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvoh3zrbjeixu6-ibagwf9w" height="30" width="40" /></a>
 <a href="https://tryhackme.com/p/microcan" target="blank"><img align="center" src="https://svgshare.com/i/td4.svg" alt="https://tryhackme.com/p/microcan" height="30" width="40" /></a>
 </p>
-
 
 ---
 
