@@ -15,7 +15,7 @@ Hello! I'm Yalın Doğu Şahin, a DevOps/SRE engineer who loves jazz music and k
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yalindogusahin?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-
+---
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
