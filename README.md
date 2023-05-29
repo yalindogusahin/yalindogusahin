@@ -1,7 +1,7 @@
 # 🏄‍♂️ Yalın Doğu Şahin
 **`(DevOps/Cloud/Guitarist)`**
 
-Hello! I'm Yalın Doğu Şahin, a DevOps/Cloud engineer who loves jazz music and kite surfing. On my GitHub profile, you'll find my work in software development, automation, and system optimization. I like developing automation scripts via Python and Ansible. You can find some repo's on my github that automates some staff. Let's connect and collaborate on innovative projects!
+Hello! I'm Yalın Doğu Şahin, a DevOps/Cloud engineer who loves jazz music and kite surfing. On my GitHub profile, you'll find my work in software development, automation, and system optimization. I like developing automation scripts via Python and Ansible. You can find some repo's on my github that automates some stuff. Let's connect and collaborate on innovative projects!
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCvoh3ZrbjeIXu6-IbAGwf9w?sub_confirmation=1">
